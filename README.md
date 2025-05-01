@@ -1,4 +1,5 @@
-📌 Project Overview: Travel Itinerary Management Backend
+#📌 Project Overview:
+#Travel Itinerary Management Backend
 This project is a backend system built using FastAPI and SQLAlchemy for managing and recommending travel itineraries. It is designed to handle day-wise travel planning, including hotel stays, transfers, and activities/excursions, with a focus on the Phuket and Krabi regions of Thailand.
 
 ✨ Key Features
